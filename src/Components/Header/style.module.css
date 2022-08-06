@@ -1,0 +1,155 @@
+.headingWrap {
+  margin: 100px 0px;
+}
+.heading {
+  font-family: "Conv_steiner-premium-regular";
+  font-style: normal;
+  font-weight: 350;
+  font-size: 80px;
+  line-height: 96px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+.walletKey {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.walletValue {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  color: #a07d3e;
+  margin-bottom: 0px;
+}
+.bgImage {
+  background-image: url("../../Assets/image/Group-1.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+}
+.claimButton {
+  width: 165px;
+  height: 53px;
+  background: #a07d3e;
+  clip-path: polygon(100% 0, 100% 49%, 82% 100%, 0 100%, 0 0);
+  border: none;
+  outline: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #ffffff;
+  margin: 0px 20px;
+}
+.customTransfer {
+  padding: 20px;
+  /* background-image: url("../../Assets/image/Group 9.svg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  border: 1px solid #4c4c4c;
+  position: relative;
+}
+.transferHeader {
+  position: absolute;
+  top: -4px;
+  left: 57px;
+  transform: translate(60%, -25%);
+  font-style: normal;
+  font-weight: 840;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #000;
+  padding: 0px 20px;
+  margin: 0px;
+}
+.transferButtonWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.transferButton {
+  margin: 10px 0px;
+  cursor: pointer;
+}
+.activeBorder {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.deActiveBorder {
+  border: 1px solid #000;
+}
+.headingOne {
+  font-style: normal;
+  font-weight: 350;
+  font-size: 80px;
+  line-height: 96px;
+  text-align: center;
+  color: #ffffff;
+}
+.stepTitle {
+  font-family: "Kyiv*Type Titling";
+  font-style: normal;
+  font-weight: 840;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 14px;
+}
+.stepDescription {
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+.stepBox {
+  margin: 40px 0 0 0;
+  padding: 14px;
+  width: 100%;
+  height: 483px;
+  background: #242424;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frameBox {
+  background-image: url("../../Assets/image/frame.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-size: 100% 100%;
+}
+.transcendButton {
+  width: 100%;
+  height: 53px;
+  background: #a07d3e;
+  clip-path: polygon(100% 0, 100% 49%, 82% 100%, 0 100%, 0 0);
+  border: none;
+  outline: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 40px;
+}
+.customContainer {
+  max-width: 1490px;
+  width: 100%;
+  margin: auto;
+  padding: 0 15px;
+}
